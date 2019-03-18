@@ -1,0 +1,6 @@
+name: converter
+description: A tool for image conversion
+version: 0.0.1
+dependencies:
+  dart_prompter_tn: 0.0.1
+  image: 2.0.7
